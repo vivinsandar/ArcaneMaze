@@ -15,3 +15,7 @@
 
 [Click here](http://arcanemaze.com) to download the application for windows, JRE 1.8 is required.
 
+
+## Screenshot
+
+<img src="screen1.png" align="centre" />
