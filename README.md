@@ -19,3 +19,4 @@
 ## Screenshot
 
 <img src="screen1.png" align="centre" />
+<img src="screen2.png" align="centre" />
