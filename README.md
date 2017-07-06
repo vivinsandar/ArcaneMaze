@@ -8,7 +8,7 @@
 - Search movies by Title, Actors, Directors
 - Sort by Title, Rating and Year
 - Filter movies based on Actors, Directors and Genre 
-- Download subtitles fro movies and episodes
+- Download subtitles for movies and episodes
 - Easy to use , simple UI
 
 ## Download
