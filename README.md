@@ -13,11 +13,11 @@
 
 ## Download
 
-[Click here](http://arcanemaze.com) to download the application for windows, JRE 1.8 is required.
+[Click here](http://arcanemaze.com) to download the application for windows.
 
+## Install Instruction 
+- Arcane Maze is currently available for Windows
+- JRE 1.8 is required.
 
-## Screenshots
-
-<img src="screen1.png" align="centre" />
-<img src="screen2.png" align="centre" />
-<img src="screen4.png" align="centre" />
+Arcane Maze comes as self extract exe file for windows.
+Install it as any other windows application.
