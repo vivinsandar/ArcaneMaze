@@ -9,6 +9,7 @@
 - Sort by Title, Rating and Year
 - Filter movies based on Actors, Directors and Genre 
 - Download subtitles for movies and episodes
+- Imdb Rating, Tomatometer and Merascore
 - Easy to use , simple UI
 
 ## Download
