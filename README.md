@@ -33,3 +33,6 @@
 
 Arcane Maze comes as self extract exe file for windows.
 Install it as any other windows application.
+
+## Snapshot
+<img src="intropic.png" align="centre" />
