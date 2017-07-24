@@ -21,12 +21,11 @@
 - Easy to use , simple UI
 
 ## Release date
-- Pre Release version of Arcane Maze is available now
-- Formal release of Arcae Maze v1.0 is on 24th July, 2017
+- Arcae Maze v1.0 is now available
 
 ## Download
 
-[Click here](http://arcanemaze.com) to download the application for windows. (v1.0.0-rc.)
+[Click here](http://arcanemaze.com) to download the application for windows. (v1.0)
 
 ## Install Instruction 
 - Arcane Maze is currently available for Windows
