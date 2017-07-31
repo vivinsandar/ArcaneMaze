@@ -25,7 +25,7 @@
 
 ## Download
 
-[Click here](http://arcanemaze.com) to download the application for windows. (v1.0)
+[Click here](http://arcanemaze.com) to download the application for windows. (v1.1)
 
 ## Install Instruction 
 - Arcane Maze is currently available for Windows
