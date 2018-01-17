@@ -3,7 +3,7 @@
 # Arcane Maze 
 > Application to organize your movies and series collection.
 
-## Features in v1.4
+## Features in v2.0
 - Auto recognize movie and episode file.
 - Imdb Rating, Tmdb Rating, Tomatometer and Merascore support for movies.
 - Imdb Rating and Tmdb Rating support for series/episodes.
@@ -13,20 +13,15 @@
 - Filter movies/series/episodes based on favourite and watched/not watched.
 - Filter movies/series based on Actors, Directors and Genre.
 - View trailer for movies.
-- Manually add file a movie/episode
 - Download/search subtitles for movies and episodes.
-- Feature to view duplicate movies (same movies found in different paths)
-- Feature to view the unmapped files/manually map them to movies/episode.
-- Feature to manually map the duplicate movies to different movies/episodes
-- Feature to updat the movie/epiodoe to different movie/episode.
 - Easy to use , simple UI
 
 ## Release date
-- Arcae Maze v1.4 is now available
+- Arcae Maze v2.0-bata is now available
 
 ## Download
 
-[Click here](http://arcanemaze.com) to download the application for windows. (v1.4)
+[Click here](http://arcanemaze.com) to download the application for windows. (v2.0)
 
 ## Install Instruction 
 - Arcane Maze is currently available for Windows
